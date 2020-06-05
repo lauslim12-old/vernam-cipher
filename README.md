@@ -1,4 +1,4 @@
-# Vernam
+# Vernam Cipher
 Algorithm and Applications of Vernam Cipher in Python Programming Language.
 
 ## Architecture / Philosophies
