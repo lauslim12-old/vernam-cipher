@@ -1,6 +1,10 @@
 # Vernam Cipher
 Algorithm and Applications of Vernam Cipher in Python Programming Language.
 
+## TODO
+* Port this to be a Django / Flask Web Application.
+* Move the algorithm notes from the source code to be a README.md file.
+
 ## Architecture / Philosophies
 * Object Oriented
 * Following Python's Recommended Project Structure
